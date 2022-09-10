@@ -1,7 +1,7 @@
 body {
     background-color: aliceblue;
 }
-.navtag {
+.navtag { 
         display: flex;
         align-content: center;
         justify-content: space-between;
